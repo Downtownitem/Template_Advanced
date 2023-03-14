@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="TimingFramework-0.55">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java Libraries/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Java Libraries/flatlaf-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Java Libraries/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Java Libraries/miglayout-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
